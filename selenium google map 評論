@@ -1,3 +1,4 @@
+# 同學雅婷寫的
 import time
 import traceback
 from selenium.webdriver import Chrome
