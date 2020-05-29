@@ -4,7 +4,7 @@ import json
 import os
 from PIL import Image
 import matplotlib.pyplot as plt
-
+# google doodles 抓取
 # 使用這行可以不用.show 來最後 show 出來
 # %matplotlib inline
 # 準備一個空的 list 來儲存
