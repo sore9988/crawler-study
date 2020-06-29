@@ -1,5 +1,5 @@
------爬蟲實作存檔-----
+-----爬蟲實作存檔-----\n
 使用套件 :
-urllib
-request
-selinium
+urllib\n
+request\n
+selinium\n
